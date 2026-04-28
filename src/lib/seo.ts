@@ -1,4 +1,4 @@
-export const SITE_URL = "https://www.bluenovapools.com";
+export const SITE_URL = "https://www.supremepoolspa.com";
 export const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image-supreme-pool-spa.png`;
 
 type SeoInput = {
