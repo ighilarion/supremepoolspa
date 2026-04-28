@@ -40,11 +40,11 @@ export function ContactQuoteForm({ variant = "embed" }: ContactQuoteFormProps) {
 
   const subjectLine = isHome
     ? isEs
-      ? "Presupuesto gratis desde inicio — BlueNova Pools"
-      : "Free quote from homepage — BlueNova Pools"
+      ? "Presupuesto gratis desde inicio — Supreme Pool Spa Services"
+      : "Free quote from homepage — Supreme Pool Spa Services"
     : isEs
-      ? "Nueva solicitud de presupuesto gratis — BlueNova Pools"
-      : "New free quote request — BlueNova Pools";
+      ? "Nueva solicitud de presupuesto gratis — Supreme Pool Spa Services"
+      : "New free quote request — Supreme Pool Spa Services";
 
   if (state.succeeded) {
     if (isHome) {

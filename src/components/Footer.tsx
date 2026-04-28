@@ -15,13 +15,13 @@ export function Footer() {
             <div className="flex items-center gap-2 mb-4">
               <img
                 src={brandLogo}
-                alt="BlueNova Pools"
+                alt="Supreme Pool Spa Services"
                 className="h-10 w-16 rounded-md object-cover border border-background/20 bg-background"
                 loading="lazy"
                 width={64}
                 height={40}
               />
-              <span className="text-xl font-bold tracking-tight">BlueNova Pools</span>
+              <span className="text-xl font-bold tracking-tight">Supreme Pool Spa Services</span>
             </div>
 
             <p className="text-background/60 text-sm max-w-sm leading-relaxed">
@@ -67,7 +67,7 @@ export function Footer() {
         </div>
 
         <div className="mt-12 pt-8 border-t border-background/10 text-center text-sm text-background/40">
-          © {new Date().getFullYear()} BlueNova Pools. {t.footer.rights}
+          © {new Date().getFullYear()} Supreme Pool Spa Services. {t.footer.rights}
         </div>
 
       </div>

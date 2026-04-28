@@ -13,7 +13,7 @@ import poolForestLounge from "@/assets/pool-forest-lounge.png";
 export const Route = createFileRoute("/services")({
   head: () =>
     buildSeoMeta({
-      title: "Pool Cleaning & Maintenance Services Miami | BlueNova Pools",
+      title: "Pool Cleaning & Maintenance Services Miami | Supreme Pool Spa Services",
       description:
         "Weekly pool cleaning, chemical balancing, equipment repair, and algae control in Miami-Dade. Book your Miami pool service—free quotes, no long-term contracts.",
       path: "/services",

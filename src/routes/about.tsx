@@ -8,9 +8,9 @@ import poolHeaderImage from "@/assets/pool-forest-lounge.png";
 export const Route = createFileRoute("/about")({
   head: () =>
     buildSeoMeta({
-      title: "About BlueNova Pools — Miami Pool Experts",
+      title: "About Supreme Pool Spa Services — Miami Pool Experts",
       description:
-        "Learn about BlueNova Pools, a trusted Miami team focused on professional pool care, transparent service, and customer-first support.",
+        "Learn about Supreme Pool Spa Services, a trusted Miami team focused on professional pool care, transparent service, and customer-first support.",
       path: "/about",
     }),
   component: AboutPage,

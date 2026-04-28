@@ -38,7 +38,7 @@ export function Header() {
         <Link to="/" className="flex items-center gap-2">
           <img
             src={brandLogo}
-            alt="BlueNova Pools"
+            alt="Supreme Pool Spa Services"
             className="h-10 w-16 rounded-md object-cover bg-background"
             loading="eager"
             width={64}
@@ -49,7 +49,7 @@ export function Header() {
               scrolled ? "text-foreground" : "text-[#fff]"
             }`}
           >
-            BlueNova Pools
+            Supreme Pool Spa Services
           </span>
         </Link>
 

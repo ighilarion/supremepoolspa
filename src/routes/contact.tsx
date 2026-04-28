@@ -9,9 +9,9 @@ import poolHeaderImage from "@/assets/pool-modern-rectangular.png";
 export const Route = createFileRoute("/contact")({
   head: () =>
     buildSeoMeta({
-      title: "Contact BlueNova Pools — Free Quote in Miami",
+      title: "Contact Supreme Pool Spa Services — Free Quote in Miami",
       description:
-        "Request your free pool service quote in Miami. Contact BlueNova Pools for cleaning, maintenance, repairs, and inspections.",
+        "Request your free pool service quote in Miami. Contact Supreme Pool Spa Services for cleaning, maintenance, repairs, and inspections.",
       path: "/contact",
     }),
   component: ContactPage,

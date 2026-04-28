@@ -45,7 +45,7 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { name: "author", content: "BlueNova Pools" },
+      { name: "author", content: "Supreme Pool Spa Services" },
       { name: "twitter:site", content: "@BlueNovaPools" },
     ],
     links: [
@@ -87,7 +87,7 @@ function RootShell({ children }: { children: React.ReactNode }) {
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
               "@id": `${SITE_URL}/#business`,
-              name: "BlueNova Pools",
+              name: "Supreme Pool Spa Services",
               description:
                 "Professional pool cleaning and pool maintenance in Miami and Miami-Dade County. Weekly service, repairs, chemical balancing, and free quotes.",
               url: SITE_URL,

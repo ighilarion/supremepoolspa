@@ -15,9 +15,9 @@ const PoolCanvas3D = lazy(() =>
 export const Route = createFileRoute("/configurador")({
   head: () =>
     buildSeoMeta({
-      title: "3D Pool Configurator — BlueNova Pools",
+      title: "3D Pool Configurator — Supreme Pool Spa Services",
       description:
-        "Use the BlueNova Pools 3D configurator to estimate weekly or one-time pool cleaning costs based on dimensions and shape.",
+        "Use the Supreme Pool Spa Services 3D configurator to estimate weekly or one-time pool cleaning costs based on dimensions and shape.",
       path: "/configurador",
     }),
   component: ConfiguradorPage,

@@ -19,7 +19,7 @@ import {
 export const Route = createFileRoute("/")({
   head: () =>
     buildSeoMeta({
-      title: "Pool Cleaning Miami | BlueNova Pools — Free Quote",
+      title: "Pool Cleaning Miami | Supreme Pool Spa Services — Free Quote",
       description:
         "Professional pool cleaning in Miami and Miami-Dade. Weekly service, repairs, and chemical balancing. Get a free quote in 5 minutes—no long-term contracts.",
       path: "/",
