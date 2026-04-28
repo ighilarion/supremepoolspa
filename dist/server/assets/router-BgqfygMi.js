@@ -6463,19 +6463,19 @@ function Footer() {
         /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "space-y-3 text-sm text-background/60", children: [
           /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: "📍 Miami, FL" }),
           /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: "📞 (305) 555-0123" }),
-          /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: "✉️ info@bluenovapools.com" })
+          /* @__PURE__ */ jsxRuntimeExports.jsx("p", { children: "✉️ info@supremepoolspa.com" })
         ] })
       ] })
     ] }),
     /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "mt-12 pt-8 border-t border-background/10 text-center text-sm text-background/40", children: [
       "© ",
       (/* @__PURE__ */ new Date()).getFullYear(),
-      " BlueNova Pools. ",
+      " Supreme Pool Spa Services. ",
       t.footer.rights
     ] })
   ] }) });
 }
-const SITE_URL = "https://www.bluenovapools.com";
+const SITE_URL = "https://www.supremepoolspa.com";
 const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image.png`;
 function buildSeoMeta({ title, description, path = "/" }) {
   const canonicalUrl = `${SITE_URL}${path}`;
@@ -6554,11 +6554,11 @@ function RootShell({ children }) {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
-              name: "BlueNova Pools",
+              name: "Supreme Pool Spa Services",
               url: SITE_URL,
               telephone: "+1-305-555-0123",
-              email: "info@bluenovapools.com",
-              areaServed: "Miami-Dade",
+              email: "info@supremepoolspa.com",
+              areaServed: "Miami-Dade County",
               address: {
                 "@type": "PostalAddress",
                 addressLocality: "Miami",
@@ -6566,10 +6566,16 @@ function RootShell({ children }) {
                 addressCountry: "US"
               },
               serviceType: [
-                "Pool cleaning",
-                "Pool maintenance",
-                "Pool equipment repair",
-                "Pool chemical balancing"
+                "Pool cleaning and maintenance",
+                "Pool repairs and maintenance",
+                "Pool chemical balancing",
+                "Pool equipment repairs",
+                "Pool upgrades and renovations",
+                "Pool inspections and certifications",
+                "Pool safety and compliance",
+                "Pool water testing and analysis",
+                "Pool water treatment and disinfection",
+                "Pool water treatment and disinfection",
               ]
             })
           }

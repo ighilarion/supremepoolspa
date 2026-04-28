@@ -84,7 +84,7 @@ function ContactPage() {
                   </div>
                   <div>
                     <p className="font-medium text-foreground">Email</p>
-                    <p className="text-sm text-muted-foreground">info@bluenovapools.com</p>
+                    <p className="text-sm text-muted-foreground">info@supremepoolspa.com</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">

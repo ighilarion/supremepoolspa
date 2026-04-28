@@ -92,9 +92,9 @@ function RootShell({ children }: { children: React.ReactNode }) {
                 "Professional pool cleaning and pool maintenance in Miami and Miami-Dade County. Weekly service, repairs, chemical balancing, and free quotes.",
               url: SITE_URL,
               telephone: "+1-786-656-6759",
-              email: "info@bluenovapools.com",
+              email: "info@supremepoolspa.com",
               areaServed: {
-                "@type": "AdministrativeArea",
+                "@type": "AdministrativeArea",  
                 name: "Miami-Dade County",
               },
               geo: {
