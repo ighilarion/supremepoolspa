@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { useI18n } from "@/i18n/I18nProvider";
 import { trackCtaClick, trackLanguageSelect } from "@/lib/gtm";
-import brandLogo from "@/assets/bluenova-mark.png";
+import brandLogo from "@/assets/supreme-mark.png";
 
 export function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);

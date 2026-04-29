@@ -2,7 +2,7 @@ import { Link } from "@tanstack/react-router";
 import { useI18n } from "@/i18n/I18nProvider";
 import { CONTACT_PHONE_DISPLAY, CONTACT_TEL_HREF } from "@/lib/contact";
 import { trackCtaClick } from "@/lib/gtm";
-import brandLogo from "@/assets/bluenova-mark.png";
+import brandLogo from "@/assets/supreme-mark.png";
 
 export function Footer() {
   const { t } = useI18n();
